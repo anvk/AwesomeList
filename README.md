@@ -1,6 +1,10 @@
 # AwesomeList
 My curated list of links related to anything interesting web technology (and not only) related.
 
+## GoLang
+- [GO Lang projects](https://github.com/golang/go/wiki/projects)
+- [JSON to GO struct](https://mholt.github.io/json-to-go/)
+
 ## UI
 - [Gradients](https://webkul.github.io/coolhue/)
 
