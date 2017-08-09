@@ -7,6 +7,7 @@ My curated list of links related to anything interesting web technology (and not
 
 ## UI
 - [Gradients](https://webkul.github.io/coolhue/)
+- [Animatable](http://leaverou.github.io/animatable/#)
 
 ## UX
 TBD
