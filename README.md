@@ -21,4 +21,5 @@ TBD
 - [Migrating from NPM to Yarn](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
 
 ## Misc
+- [Write Code That is Easy to Delete Not Easy to Extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
