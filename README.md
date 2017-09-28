@@ -19,6 +19,7 @@ TBD
 ## Tools, DevOps, ...
 - [from NPM to YARN?](http://www.blog.distelli.com/single-post/2016/12/14/Why-we-switched-from-NPM-to-Yarn)
 - [Migrating from NPM to Yarn](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
+- [High Scalability Stories](http://highscalability.com/all-time-favorites/)
 
 ## Misc
 - [Write Code That is Easy to Delete Not Easy to Extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
