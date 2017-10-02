@@ -2,7 +2,7 @@
 My curated list of links related to anything interesting web technology (and not only) related.
 
 # Python
-- [Python Data Structures Idioms] (https://dev.to/mushketyk/python-data-structures-idioms-6ae)
+- [Python Data Structures Idioms](https://dev.to/mushketyk/python-data-structures-idioms-6ae)
 
 ## GoLang
 - [GoLang projects](https://github.com/golang/go/wiki/projects)
