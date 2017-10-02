@@ -16,6 +16,9 @@ My curated list of links related to anything interesting web technology (and not
 ## UX
 TBD
 
+## SQL
+- [Pagination for 100M records](https://dev.to/backendandbbq/the-sql-i-love-chapter-one)
+
 ## React
 - [React Rocks. (React Components)](https://react.rocks/)
 
