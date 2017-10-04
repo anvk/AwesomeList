@@ -18,6 +18,7 @@ TBD
 
 ## SQL
 - [Pagination for 100M records](https://dev.to/backendandbbq/the-sql-i-love-chapter-one)
+- [PGTune](http://pgtune.leopard.in.ua/)
 
 ## React
 - [React Rocks. (React Components)](https://react.rocks/)
