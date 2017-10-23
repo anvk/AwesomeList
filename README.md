@@ -34,3 +34,7 @@ TBD
 - [Bundle Size Analyzer](https://bundlephobia.com/)
 - [You might not need Lodash or Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
+
+## Be better
+
+- [Traits of Great Developers](https://dev.to/carlhembrough/traits-of-great-developers-6jo)
