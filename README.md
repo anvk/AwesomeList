@@ -38,3 +38,4 @@ TBD
 ## Be better
 
 - [Traits of Great Developers](https://dev.to/carlhembrough/traits-of-great-developers-6jo)
+- [Good Coding Maners](https://dev.to/tonyhicks20/good-coding-manners-d3e)
