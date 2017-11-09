@@ -39,3 +39,4 @@ TBD
 
 - [Traits of Great Developers](https://dev.to/carlhembrough/traits-of-great-developers-6jo)
 - [Good Coding Maners](https://dev.to/tonyhicks20/good-coding-manners-d3e)
+- [What Questions to Ask on an Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
