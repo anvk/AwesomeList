@@ -12,6 +12,7 @@ My curated list of links related to anything interesting web technology (and not
 - [Gradients](https://webkul.github.io/coolhue/)
 - [Animatable](http://leaverou.github.io/animatable/#)
 - [CSS Triggers](https://csstriggers.com/)
+- [Micro-Frontends](https://micro-frontends.org/)
 
 ## UX
 TBD
