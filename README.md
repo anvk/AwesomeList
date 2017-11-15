@@ -7,6 +7,7 @@ My curated list of links related to anything interesting web technology (and not
 ## GoLang
 - [GoLang projects](https://github.com/golang/go/wiki/projects)
 - [JSON to GoLang struct](https://mholt.github.io/json-to-go/)
+- [Singletons in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 
 ## UI
 - [Gradients](https://webkul.github.io/coolhue/)
