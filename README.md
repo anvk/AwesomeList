@@ -15,6 +15,7 @@ My curated list of links related to anything interesting web technology (and not
 - [CSS Triggers](https://csstriggers.com/)
 - [Micro-Frontends](https://micro-frontends.org/)
 - [Using SVGs as Placeholders for Loading Images](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
+- [What to use to animate illustrations for the web](https://graphicdesign.stackexchange.com/questions/39613/whats-the-best-way-to-animate-an-illustration-for-the-web)
 
 ## UX
 TBD
