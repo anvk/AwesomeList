@@ -39,6 +39,7 @@ TBD
 - [NPM Download Size](https://arve0.github.io/npm-download-size/)
 - [You might not need Lodash or Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
+- [Git Flow commands explained](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
 
 ## Be better
 
