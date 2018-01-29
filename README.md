@@ -1,6 +1,10 @@
 # AwesomeList
 My curated list of links related to anything interesting web technology (and not only) related.
 
+# JavaScript
+
+- [Async await without try catch blocks](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+
 # Python
 - [Python Data Structures Idioms](https://dev.to/mushketyk/python-data-structures-idioms-6ae)
 
