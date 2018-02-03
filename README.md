@@ -1,11 +1,10 @@
 # AwesomeList
 My curated list of links related to anything interesting web technology (and not only) related.
 
-# JavaScript
-
+## JavaScript
 - [Async await without try catch blocks](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
-# Python
+## Python
 - [Python Data Structures Idioms](https://dev.to/mushketyk/python-data-structures-idioms-6ae)
 
 ## GoLang
@@ -20,6 +19,9 @@ My curated list of links related to anything interesting web technology (and not
 - [Micro-Frontends](https://micro-frontends.org/)
 - [Using SVGs as Placeholders for Loading Images](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 - [What to use to animate illustrations for the web](https://graphicdesign.stackexchange.com/questions/39613/whats-the-best-way-to-animate-an-illustration-for-the-web)
+
+## DB
+- [Building a Full-Text Search App Using Docker and Elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/amp/?__twitter_impression=true)
 
 ## UX
 TBD
@@ -45,8 +47,7 @@ TBD
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [Git Flow commands explained](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
 
-## Be better
-
+## Other
 - [Traits of Great Developers](https://dev.to/carlhembrough/traits-of-great-developers-6jo)
 - [Good Coding Maners](https://dev.to/tonyhicks20/good-coding-manners-d3e)
 - [What Questions to Ask on an Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
