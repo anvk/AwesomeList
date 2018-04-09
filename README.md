@@ -20,6 +20,7 @@ My curated list of links related to anything interesting web technology (and not
 - [Using SVGs as Placeholders for Loading Images](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 - [What to use to animate illustrations for the web](https://graphicdesign.stackexchange.com/questions/39613/whats-the-best-way-to-animate-an-illustration-for-the-web)
 - [SVG OMG](https://jakearchibald.github.io/svgomg/)
+- [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
 ## DB
 - [Building a Full-Text Search App Using Docker and Elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/amp/?__twitter_impression=true)
