@@ -50,6 +50,7 @@ TBD
 - [You might not need Lodash or Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [Git Flow commands explained](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 ## Other
 - [Traits of Great Developers](https://dev.to/carlhembrough/traits-of-great-developers-6jo)
