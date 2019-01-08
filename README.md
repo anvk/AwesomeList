@@ -4,6 +4,7 @@ My curated list of links related to anything interesting web technology (and not
 ## JavaScript
 - [Async await without try catch blocks](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 - [Middlewares Pattern](http://thecodebarbarian.com/write-your-own-express-from-scratch)
+- [30 seconds JS code questions](https://30secondsofcode.org/)
 
 ## Python
 - [Python Data Structures Idioms](https://dev.to/mushketyk/python-data-structures-idioms-6ae)
