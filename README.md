@@ -28,6 +28,7 @@ My curated list of links related to anything interesting web technology (and not
 
 ## DB
 - [Building a Full-Text Search App Using Docker and Elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/amp/?__twitter_impression=true)
+- [PostgreSQL's explain analyze made readable](https://explain.depesz.com/)
 
 ## UX
 TBD
